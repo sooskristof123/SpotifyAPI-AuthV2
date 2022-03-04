@@ -30,3 +30,35 @@ C:\Users\soosk\source\repos\WebApplication8\WebApplication8\obj\Debug\net5.0\Web
 C:\Users\soosk\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
 C:\Users\soosk\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
 C:\Users\soosk\source\repos\WebApplication8\WebApplication8\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\appsettings.json
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.StaticWebAssets.xml
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.exe
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.deps.json
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.runtimeconfig.json
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.runtimeconfig.dev.json
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\ref\WebApplication8.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\WebApplication8.pdb
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.csproj.AssemblyReference.cache
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.AssemblyInfoInputs.cache
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.AssemblyInfo.cs
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.csproj.CoreCompileInputs.cache
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\scopedcss\bundle\WebApplication8.styles.css
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\staticwebassets\WebApplication8.StaticWebAssets.Manifest.cache
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.RazorTargetAssemblyInfo.cache
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.csproj.CopyComplete
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\ref\WebApplication8.dll
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.pdb
+C:\Users\soosk\OneDrive\Asztali gép\semesterProjectGit\SpotifyAPI-AuthV2\SpotifyAPI-AuthV2\WebApplication8\obj\Debug\net5.0\WebApplication8.genruntimeconfig.cache

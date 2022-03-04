@@ -3458,11 +3458,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\soosk\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+      "projectUniqueName": "C:\\Users\\soosk\\OneDrive\\Asztali gép\\semesterProjectGit\\SpotifyAPI-AuthV2\\SpotifyAPI-AuthV2\\WebApplication8\\WebApplication8.csproj",
       "projectName": "WebApplication8",
-      "projectPath": "C:\\Users\\soosk\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+      "projectPath": "C:\\Users\\soosk\\OneDrive\\Asztali gép\\semesterProjectGit\\SpotifyAPI-AuthV2\\SpotifyAPI-AuthV2\\WebApplication8\\WebApplication8.csproj",
       "packagesPath": "C:\\Users\\soosk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\soosk\\source\\repos\\WebApplication8\\WebApplication8\\obj\\",
+      "outputPath": "C:\\Users\\soosk\\OneDrive\\Asztali gép\\semesterProjectGit\\SpotifyAPI-AuthV2\\SpotifyAPI-AuthV2\\WebApplication8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\soosk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3534,7 +3534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

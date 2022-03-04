@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S1WuYSJgMqDTgNmW++wL/nlXOkVrPjpHZa8DUFSDtnmx9KxSv87L11m+ffba8SfSfaZIlXt7yR/UWfyY+Hle7Q==",
+  "dgSpecHash": "NqucK6WNoUHJr67XKnuOmmOtqBftUXThDMlYFHIhS44YESVq3nYNcFD/PK3M0YrtCoySnTy6t2u60j1mUUELFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\soosk\\source\\repos\\WebApplication8\\WebApplication8\\WebApplication8.csproj",
+  "projectFilePath": "C:\\Users\\soosk\\OneDrive\\Asztali gép\\semesterProjectGit\\SpotifyAPI-AuthV2\\SpotifyAPI-AuthV2\\WebApplication8\\WebApplication8.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\soosk\\.nuget\\packages\\microsoft.aspnetcore.http\\2.2.2\\microsoft.aspnetcore.http.2.2.2.nupkg.sha512",
     "C:\\Users\\soosk\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
